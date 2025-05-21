@@ -48,7 +48,7 @@ body {
   bottom: -2px;
   width: 100%;
   height: 2px;
-  background: linear-gradient(to right, #796a9e 37%, #000000 89%);
+  background: linear-gradient(to right, #6272a4 37%, #282a36 89%);
   transform: scaleX(0);
   transform-origin: left;
   transition: transform 0.3s ease;
@@ -80,7 +80,7 @@ header nav {
 header nav h2 {
   font-size: 30px;
   font-weight: 600;
-  background: linear-gradient(to right, #796a9e 37%, #000000 89%);
+  background: linear-gradient(to right, #6272a4 37%, #282a36 89%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -98,7 +98,7 @@ header nav ul {
 }
 
 .social-icons i:hover {
-  background: linear-gradient(to right, #796a9e 37%, #000000 89%);
+  background: linear-gradient(to right, #6272a4 37%, #282a36 89%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transform: scale(1.05);
@@ -138,7 +138,7 @@ section.about {
 }
 
 .gradient-text {
-  background: linear-gradient(to right, #796a9e 37%, #000000 89%);
+  background: linear-gradient(to right, #6272a4 37%, #282a36 89%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -156,8 +156,8 @@ section.about {
   justify-content: center;
   font-size: 24px;
   padding: 15px 20px;
-  background: linear-gradient(to right, #796a9e 37%, #000000 89%);
-  border-radius: 20px;
+  background: linear-gradient(to right, #6272a4 37%, #282a36 89%);
+  border-radius: 7px;
   color: white;
   cursor: pointer;
   transition: transform 0.2s;
@@ -222,14 +222,14 @@ section.about {
 }
 
 .card:hover .gradient-text-hover {
-  background: linear-gradient(to right, #544870 37%, #000000 89%);
+  background: linear-gradient(to right, #544870 37%, #282a36 89%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
 }
 
 .card:hover i {
-  background: linear-gradient(to right, #544870 37%, #000000 89%);
+  background: linear-gradient(to right, #544870 37%, #282a36 89%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transform: scale(1);
@@ -342,7 +342,7 @@ section.about {
 }
 
 .button-repo:hover {
-  background: linear-gradient(to right, #796a9e 37%, #000000 89%);
+  background: linear-gradient(to right, #6272a4 37%, #282a36 89%);
   color: #ffffff;
   font-weight: bolder;
 }
@@ -360,7 +360,7 @@ footer a {
 }
 
 footer i:hover {
-  color: #796a9e;
+  color: #6272a4;
   transition: 0.5s;
 }
 
@@ -372,7 +372,7 @@ footer i:hover {
   z-index: 99;
   border: none;
   outline: none;
-  background-color: #796a9e;
+  background-color: #6272a4;
   color: white;
   cursor: pointer;
   width: 45px;
@@ -403,7 +403,7 @@ footer i:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #796a9e;
+  background-color: #6272a4;
   border-radius: 10px;
   border: 2px solid transparent;
   background-clip: content-box;
